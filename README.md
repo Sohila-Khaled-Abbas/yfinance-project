@@ -4,7 +4,6 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)  
 ![Prefect](https://img.shields.io/badge/Prefect-Orchestration-brightgreen?logo=prefect)  
 ![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)  
-![Tests](https://github.com/your-username/finance-bi-project/actions/workflows/tests.yml/badge.svg)  
 
 ---
 
